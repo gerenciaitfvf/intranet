@@ -1,0 +1,12 @@
+{
+    "name": "fgomez/intranet-prd",
+    "description": "testing wordpress in heroku for FVF internal use",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "gerenciait",
+            "email": "gerenciait@fvf.com.ve"
+        }
+    ],
+    "require": {}
+}
